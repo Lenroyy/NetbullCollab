@@ -1,0 +1,140 @@
+.smallGreenDot {
+    height: 30px;
+    width: 30px;
+    background-color: #49AD49;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.smallOrangeDot {
+    height: 30px;
+    width: 30px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.smallRedDot {
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.smallWhiteDot {
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.smallBlackDot {
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.xsmallGreenDot {
+    height: 15px;
+    width: 15px;
+    background-color: #49AD49;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.xsmallOrangeDot {
+    height: 15px;
+    width: 15px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.xsmallRedDot {
+    height: 15px;
+    width: 15px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.xsmallWhiteDot {
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.xsmallBlackDot {
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.largeGreenDot {
+    height: 90px;
+    width: 90px;
+    background-color: #49AD49;
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+    vertical-align: middle;
+    line-height: 90px;
+    text-align: center;
+}
+
+.largeOrangeDot {
+    height: 90px;
+    width: 90px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+    vertical-align: middle;
+    line-height: 90px;
+    text-align: center;
+}
+
+.largeRedDot {
+    height: 90px;
+    width: 90px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+    vertical-align: middle;
+    line-height: 90px;
+    text-align: center;
+}
+
+.largeWhiteDot {
+    height: 90px;
+    width: 90px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+    vertical-align: middle;
+    line-height: 90px;
+    text-align: center;
+}
+
+
+.largeBlackDot {
+    height: 90px;
+    width: 90px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    color: black;
+    vertical-align: middle;
+    line-height: 90px;
+    text-align: center;
+}
